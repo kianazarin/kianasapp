@@ -1,0 +1,97 @@
+{
+  "apparel_list": [
+    {
+      "album": "myWardrobe",
+      "desc": null,
+      "id": 32,
+      "image": "https://raw.githubusercontent.com/kianazarin/kianasapp/main/apparel34.jpg",
+      "llm": "clarifai",
+      "tags": [
+        {
+          "name": "BOTTOM",
+          "tag_desc": "BOTTOM,pants,none,long,loose,jean,blue",
+          "tag_detail": [],
+          "value": null
+        }
+      ]
+    },
+    {
+      "album": "myWardrobe",
+      "desc": null,
+      "id": 34,
+      "image": "https://raw.githubusercontent.com/kianazarin/kianasapp/main/apparel4.jpg",
+      "llm": "clarifai",
+      "tags": [
+        {
+          "name": "BOTTOM",
+          "tag_desc": "BOTTOM,pants,none,long,loose,jean,blue",
+          "tag_detail": [],
+          "value": null
+        }
+      ]
+    },
+    {
+      "album": "myWardrobe",
+      "desc": null,
+      "id": 36,
+      "image": "https://raw.githubusercontent.com/kianazarin/kianasapp/main/apparel28.jpg",
+      "llm": "clarifai",
+      "tags": [
+        {
+          "name": "BOTTOM",
+          "tag_desc": "BOTTOM,pants,none,long,loose,jean,blue",
+          "tag_detail": [],
+          "value": null
+        }
+      ]
+    },
+    {
+      "album": "myWardrobe",
+      "desc": null,
+      "id": 29,
+      "image": "https://raw.githubusercontent.com/kianazarin/kianasapp/main/myWardrobe/IMG_8558.jpeg",
+      "llm": "clarifai",
+      "tags": [
+        {
+          "name": "TOP",
+          "tag_desc": "TOP,t-shirt,short sleeve,short,tight,cotton,white",
+          "tag_detail": [],
+          "value": null
+        }
+      ]
+    }
+  ],
+  "references": [
+    {
+      "album": "myReferences",
+      "desc": null,
+      "id": 39,
+      "image": "https://media.vogue.co.uk/photos/62a7254beb112f908511e6e0/2:3/w_2560%2Cc_limit/white_tee_1306_GettyImages-1239483394.jpg",
+      "llm": "clarifai",
+      "tags": [
+        {
+          "name": "TOP",
+          "tag_desc": "TOP,t-shirt,short sleeve,short,tight,cotton,white",
+          "tag_detail": [],
+          "value": null
+        },
+        {
+          "name": "BOTTOM",
+          "tag_desc": "BOTTOM,pants,none,long,loose,jean,blue",
+          "tag_detail": [],
+          "value": null
+        }
+      ]
+    }
+  ],
+  "user": {
+    "birth_date": "2006-02-18",
+    "email": "kiana.zarin@edu.ge",
+    "first_name": "Kiana",
+    "last_name": "Zarin",
+    "location": "Geneva",
+    "profile_image": "https://avatars.githubusercontent.com/u/176900293?v=4",
+    "start_date": "2024-08-01",
+    "user_id": 1
+  }
+}
